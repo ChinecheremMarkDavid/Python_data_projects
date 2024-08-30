@@ -118,7 +118,7 @@ plt.show()
 
 ### The Result
 
-![Visualization of Top Kills for Data Roles in the United States](Project\Images\engineering.png)
+![Visualization of Top Skills for Data Roles in the United States](Project/Images/engineering.png)
 
 ### Key Insights:
 
@@ -169,7 +169,7 @@ plt.show()
 
 ### The Result
 
-![Visualization of Top Kills for Data Roles in the United States](Project\Images\output.png)
+![Visualization of Top Kills for Data Roles in the United States](Project/Images/output.png)
 
 ### Insights
 
@@ -242,7 +242,7 @@ for i in range(5):
 
 ### Result
 
-![Skills trend visualization](Project\Images\skills_trend.png)
+![Skills trend visualization](Project/Images/skills_trend.png)
 
 ### Insights gotten from the data
 
@@ -282,7 +282,7 @@ plt.show()
 
 #### Results
 
-![Salary Distributions of Data Jobs in the US](Project\Images\salary_box.png)  
+![Salary Distributions of Data Jobs in the US](Project/Images/salary_box.png)  
 _Box plot visualizing the salary distributions for the top 6 data job titles._
 
 #### Insights
@@ -317,7 +317,7 @@ plt.show()
 
 Here's the breakdown of the highest-paid & most in-demand skills for data analysts in the US:
 
-![The Highest Paid & Most In-Demand Skills for Data Analysts in the US](Project\Images\salary.png)
+![The Highest Paid & Most In-Demand Skills for Data Analysts in the US](Project/Images/salary.png)
 
 _Two separate bar graphs visualizing the highest paid skills and most in-demand skills for data analysts in the US._
 
@@ -365,7 +365,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the US](Project\Images\most_optimal.png)  
+![Most Optimal Skills for Data Analysts in the US](Project/Images/most_optimal.png)  
 _A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US._
 
 #### Insights:
@@ -400,7 +400,7 @@ plt.show()
 
 #### Results
 
-![Most Optimal Skills for Data Analysts in the US with Coloring by Technology](Project\Images\optimal_skills.png)  
+![Most Optimal Skills for Data Analysts in the US with Coloring by Technology](Project/Images/optimal_skills.png)  
 _A scatter plot visualizing the most optimal skills (high paying & high demand) for data analysts in the US with color labels for technology._
 
 #### Insights:
